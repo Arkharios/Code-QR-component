@@ -38,6 +38,3 @@ My first Frontend Mentor challenge! Just a simple card page.
 ## Author
 
 - Arkharios.
-
-
-
