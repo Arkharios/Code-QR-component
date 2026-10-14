@@ -8,7 +8,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [Useful resources](#useful-resources)
+  - [Useful resources](#useful-resources) 
 - [Author](#author)
 
 
@@ -19,8 +19,7 @@ My first Frontend Mentor challenge! Just a simple card page.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- View the live site here:  QR Code Component(https://arkharios.github.io/Code-QR-component/)
 
 ## My process
 
